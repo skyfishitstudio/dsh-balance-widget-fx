@@ -40,7 +40,7 @@ dsh plugin --profile desktop remove dsh-balance-widget
 Затем поставить форк — с GitHub:
 
 ```bash
-dsh plugin --profile desktop add github:USER/dsh-balance-widget-fx
+dsh plugin --profile desktop add github:skyfishalex/dsh-balance-widget-fx
 ```
 
 или из локальной папки:
