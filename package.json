@@ -50,10 +50,10 @@
   "author": "Alex Kuznetsov (Skyfish)",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/skyfishalex/dsh-balance-widget-fx.git"
+    "url": "git+https://github.com/skyfishitstudio/dsh-balance-widget-fx.git"
   },
   "bugs": {
-    "url": "https://github.com/skyfishalex/dsh-balance-widget-fx/issues"
+    "url": "https://github.com/skyfishitstudio/dsh-balance-widget-fx/issues"
   },
   "engines": {
     "node": "^22.19.0 || >=24.0.0"
