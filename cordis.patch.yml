@@ -4,5 +4,5 @@
 # routes; the `dsh.client` declaration in package.json makes the browser half
 # (exports "./client", served at /plugins/<id>/client.js) load in the web GUI.
 - insert:
-    - id: balance-widget
-      name: 'dsh-balance-widget'
+    - id: balance-widget-fx
+      name: 'dsh-balance-widget-fx'
